@@ -1,0 +1,13 @@
+body {
+    background-color: #fff;
+    color: #333;
+  }
+  
+  #picture {
+    max-width: 100%;
+  }
+  
+  #gray-box {
+    display: none;
+  }
+  
